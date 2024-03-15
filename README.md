@@ -1,8 +1,8 @@
 # Genome and Feature Track Visualization
 
-This repository contains scripts for generating visualizations of genomic data -
-1.Interaction frequency with direct comparison to LINE or SINE enrichment - this can be extended to any other genomic feature such as UCEs, and other recurring DNA motifs. 
-2.Generating ChIP-seq data (bedgraph files) tracks along with genomic data tracks 
+This repository contains scripts for generating visualizations of genomic data - 
+1. Interaction frequency with direct comparison to LINE or SINE enrichment - this can be extended to any other genomic feature such as UCEs, and other recurring DNA motifs.
+2. Generating ChIP-seq data (bedgraph files) tracks along with genomic data tracks 
 
 
 ## Prerequisites
